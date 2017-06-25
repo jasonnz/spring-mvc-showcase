@@ -46,7 +46,7 @@
 This is the second line to be added
 </p>
 <p>
-This is the third libe to be added
+This is the third line to be added
 </p>
 
 		<ul>
